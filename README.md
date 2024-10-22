@@ -1,4 +1,7 @@
-## Hi there 👋
+<img src="pictures/tempbergenpanorama.jpg" />
+
+<br>
+<br>
 ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobe-Deleted&show_icons=true&theme=synthwave)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobe-Deleted&layout=compact&theme=synthwave&Langs_count=10)
 <!--
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
