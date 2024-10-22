@@ -1,9 +1,15 @@
 <img src="pictures/tempbergenpanorama.jpg" />
 
-# Oliver Solberg
+# Oliver
 
-A new developer currently learning C# at [Kodehode](https://www.kodehode.no/)
+💾 A new developer currently learning C#(and other things) at [Kodehode](https://www.kodehode.no/)
 <br>
+💻 Have been interested in and experimented with computers for 25+ years
+<br>
+🏢 Have worked with computers and network for 5 years at local ISPs
+<br>
+🗣️ Speak Norwegian, English and German
+
 ## My tools
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,net)]()
 [![FED-Development](https://skillicons.dev/icons?i=html,css)]()
