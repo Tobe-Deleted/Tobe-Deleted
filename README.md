@@ -4,6 +4,13 @@
 
 A new developer currently learning C# at [Kodehode](https://www.kodehode.no/)
 <br>
+## My tools
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,net)]()
+[![FED-Development](https://skillicons.dev/icons?i=html,css)]()
+[![Cloud Platforms](https://skillicons.dev/icons?i=azure)]()
+[![Tools](https://skillicons.dev/icons?i=vscode,git)]()
+
+<br>
 
 ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobe-Deleted&show_icons=true&theme=synthwave)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobe-Deleted&layout=compact&theme=synthwave&Langs_count=10)
