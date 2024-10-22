@@ -1,6 +1,8 @@
 <img src="pictures/tempbergenpanorama.jpg" />
 
-<br>
+# Oliver Solberg
+
+A new developer currently learning C# at [Kodehode](https://www.kodehode.no/)
 <br>
 
 ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobe-Deleted&show_icons=true&theme=synthwave)
