@@ -8,7 +8,7 @@
 <br>
 🏢 Have worked with computers and network for 5 years at local ISPs
 <br>
-🗣️ Speak Norwegian, English and German
+🗣️ Speaks Norwegian, English, and German
 
 ## My tools
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,net)]()
